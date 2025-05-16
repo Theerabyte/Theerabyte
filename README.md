@@ -9,7 +9,7 @@ I'm a software developer focused on web technologies and applications. I enjoy b
 ## Skills & Technologies
 I'm most proficient in these IDE's, languages and apps:
 
-<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,github,gitlab,git,cs,dotnet,docker,kubernetes,eclipse,figma,gamemakerstudio,html,css,js,php,java,linux,mysql,mongodb,redis,powershell,raspberrypi,react,sqlite,vite,visualstudio,vscode,windows">
+<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,github,gitlab,git,eclipse,figma,gamemakerstudio,cs,dotnet,docker,kubernetes,html,css,js,php,java,linux,mysql,mongodb,redis,sqlite,powershell,raspberrypi,react,vite,visualstudio,vscode,windows">
 My best skills are:
 
 - communication
