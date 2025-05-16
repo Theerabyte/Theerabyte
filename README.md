@@ -8,7 +8,18 @@ I'm a software developer focused on web technologies and applications. I enjoy b
 
 ## Skills & Technologies
 I'm most proficient in these technologies:
+
 <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,github,gitlab,git,cs,dotnet,docker,kubernetes,eclipse,figma,gamemakerstudio,html,css,js,php,java,linux,mysql,mongodb,powershell,raspberrypi,react,sqlite,vite,visualstudio,vscode,windows">
+My best skills are:
+
+- communication
+- dedication
+- diligence
+- endurance
+- leadership
+- motivation
+- organisation
+- optimism
 
 ## Top Projects
 
