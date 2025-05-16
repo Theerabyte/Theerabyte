@@ -8,7 +8,7 @@ I'm a software developer focused on web technologies and .NET applications. I en
 
 ## Skills & Technologies
 
-c,css,html,dotnet,js,react,git,mysql
+<img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,github,gitlab,git,cs,dotnet,docker,kubernetes,eclipse,figma,gamemakerstudio,html,css,js,php,java,linux,mysql,mongodb,powershell,raspberrypi,react,sqlite,vite,visualstudio,vscode,windows">
 
 ## Top Projects
 
