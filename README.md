@@ -7,7 +7,7 @@ I'm **Theerabyte**, a passionate developer with a knack for creating innovative 
 I'm a software developer focused on web technologies and applications. I enjoy building applications that improve user experiences and solve real-world problems. Currently, I am based in switzerland.
 
 ## Skills & Technologies
-I'm most proficient in these technologies:
+I'm most proficient in these IDE's, languages and apps:
 
 <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,github,gitlab,git,cs,dotnet,docker,kubernetes,eclipse,figma,gamemakerstudio,html,css,js,php,java,linux,mysql,mongodb,powershell,raspberrypi,react,sqlite,vite,visualstudio,vscode,windows">
 My best skills are:
@@ -25,19 +25,19 @@ My best skills are:
 
 Here are some of my notable projects:
 
-- [**Theerabyte**](https://github.com/Theerabyte/Theerabyte)  
+- [**Theerabyte**](https://github.com/Theerabyte/LARRY-the-Labirinth)  
   Config files for my GitHub profile.  
-  ⭐ 0 | Language: N/A  
+  ⭐ 1 | Language: C#  
   Forks: 0 | Open Issues: 0  
 
 - [**.NET-website**](https://github.com/Theerabyte/.NET-website)  
   A .NET application showcasing various functionalities.  
-  ⭐ 0 | Language: C#  
+  ⭐ 1 | Language: C# .NET MAUI 
   Forks: 0 | Open Issues: 0  
 
 - [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
   A simple HTML website project.  
-  ⭐ 0 | Language: HTML  
+  ⭐ 1 | Language: HTML & CSS
   Forks: 0 | Open Issues: 0  
 
 ## GitHub Stats
@@ -61,5 +61,4 @@ Here are some of my latest GitHub activities:
 Currently, I don't have any blog posts to share, but stay tuned for future updates!
 
 ## Connect with Me
-
 {"linkedin":"https://www.linkedin.com/in/naomi-b%C3%A4chler/"}
