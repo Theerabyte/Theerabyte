@@ -1,46 +1,54 @@
-<h2 align="left">Hi 👋! My name is Theerabyte and I'm an aspiring Information Technologist in Application Development, from Swizzerland.</h2>
+## Hi there! 👋
 
-###
+I'm **Theerabyte**, a passionate developer with a knack for creating innovative solutions. Welcome to my GitHub profile where I share my projects and collaborate with others!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theerabyte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theerabyte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I'm a software developer focused on web technologies and .NET applications. I enjoy building applications that improve user experiences and solve real-world problems. Currently, I am based in [your location].
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Technologies
 
-###
+c,css,html,dotnet,js,react,git,mysql
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Top Projects
 
-###
+Here are some of my notable projects:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- [**Theerabyte**](https://github.com/Theerabyte/Theerabyte)  
+  Config files for my GitHub profile.  
+  ⭐ 0 | Language: N/A  
+  Forks: 0 | Open Issues: 0  
 
-###
+- [**.NET-website**](https://github.com/Theerabyte/.NET-website)  
+  A .NET application showcasing various functionalities.  
+  ⭐ 0 | Language: C#  
+  Forks: 0 | Open Issues: 0  
 
-<br clear="both">
+- [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
+  A simple HTML website project.  
+  ⭐ 0 | Language: HTML  
+  Forks: 0 | Open Issues: 0  
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## GitHub Stats
 
-###
+![Theerabyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theerabyte&show_icons=true&count_private=true&theme=radical)
+
+- **Public Repositories:** 3  
+- **Followers:** 1  
+- **Following:** 1
+
+## Recent Activity
+
+Here are some of my latest GitHub activities:
+  
+- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/3b62682a0a8cfd344c80a7472075a0e236c503c3)** on PetabyteBrain/BlackberryPi - Updated header.  
+- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/975a97ced3beb3f65c389010f28d2f174c48a823)** on PetabyteBrain/BlackberryPi - Corrected naming.  
+- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/16f76577a4a101cdfb89b7492ac294244d7810b6)** on PetabyteBrain/BlackberryPi - Updated image and other changes.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts to share, but stay tuned for future updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/naomi-b%C3%A4chler/"}
