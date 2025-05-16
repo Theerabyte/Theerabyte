@@ -25,8 +25,8 @@ My best skills are:
 
 Here are some of my notable projects:
 
-- [**Theerabyte**](https://github.com/Theerabyte/LARRY-the-Labirinth)  
-  Config files for my GitHub profile.  
+- [**LARRY-the-Labirinth**](https://github.com/Theerabyte/LARRY-the-labyrinth)
+  My first game, it's a simple C# labirinth.  
   ⭐ 0 | Language: C#  
   Forks: 0 | Open Issues: 0  
 
