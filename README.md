@@ -27,17 +27,17 @@ Here are some of my notable projects:
 
 - [**Theerabyte**](https://github.com/Theerabyte/LARRY-the-Labirinth)  
   Config files for my GitHub profile.  
-  ⭐ 1 | Language: C#  
+  ⭐ 0 | Language: C#  
   Forks: 0 | Open Issues: 0  
 
 - [**.NET-website**](https://github.com/Theerabyte/.NET-website)  
   A .NET application showcasing various functionalities.  
-  ⭐ 1 | Language: C# .NET MAUI 
+  ⭐ 0 | Language: C# .NET MAUI 
   Forks: 0 | Open Issues: 0  
 
 - [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
   A simple HTML website project.  
-  ⭐ 1 | Language: HTML & CSS
+  ⭐ 0 | Language: HTML & CSS
   Forks: 0 | Open Issues: 0  
 
 ## GitHub Stats
