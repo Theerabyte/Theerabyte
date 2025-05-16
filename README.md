@@ -32,12 +32,12 @@ Here are some of my notable projects:
   
 - [**.NET-website**](https://github.com/Theerabyte/.NET-website)  
   A .NET application showcasing various functionalities.  
-  ⭐ 0 | Language: C# .NET MAUI 
+  ⭐ 0 | Language: C# .NET MAUI <br />
   Forks: 0 | Open Issues: 0  
 
 - [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
   A simple HTML website project.  
-  ⭐ 0 | Language: HTML & CSS
+  ⭐ 0 | Language: HTML & CSS <br />
   Forks: 0 | Open Issues: 0  
 
 ## GitHub Stats
