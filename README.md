@@ -25,14 +25,9 @@ My best skills are:
 
 Here are some of my notable projects:
 
-- [**LARRY-the-Labirinth**](https://github.com/Theerabyte/LARRY-the-labyrinth)
-  My first game, it's a simple C# labirinth.  
-  ⭐ 0 | Language: C#  
-  Forks: 0 | Open Issues: 0
-
-- [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
-  A simple HTML website project.  
-  ⭐ 0 | Language: HTML & CSS
+- [**LARRY-the-Labirinth**](https://github.com/Theerabyte/LARRY-the-labyrinth)  
+  My first game, it's a simple C# labirinth  
+  ⭐ 0 | Language: C#
   Forks: 0 | Open Issues: 0  
   
 - [**.NET-website**](https://github.com/Theerabyte/.NET-website)  
