@@ -61,4 +61,6 @@ Here are some of my latest GitHub activities:
 Currently, I don't have any blog posts to share, but stay tuned for future updates!
 
 ## Connect with Me
-{"linkedin":"https://www.linkedin.com/in/naomi-b%C3%A4chler/"}
+
+- **[Linkedin](https://www.linkedin.com/in/naomi-b%C3%A4chler/)**
+- **[Email](mailto:naomi.baechler@protonmail.com)**
