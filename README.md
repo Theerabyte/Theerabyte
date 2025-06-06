@@ -4,7 +4,7 @@ I'm **Theerabyte**, a passionate developer with a knack for creating innovative 
 
 ## About Me
 
-I'm a software developer focused on web technologies and applications. I enjoy building applications that improve user experiences and solve real-world problems. Currently, I am based in switzerland.
+I'm a software developer apprentice focused on web technologies and applications. I enjoy building applications that improve user experiences and solve real-world problems. Currently, I am based in switzerland.
 
 ## Skills & Technologies
 I'm most proficient in these IDE's, languages and apps:
