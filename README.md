@@ -42,24 +42,16 @@ Here are some of my notable projects:
 
 - [**Portfolio**](https://github.com/Theerabyte/bweb)  
   A react x Next.js website project.  
-  ⭐ 1 | Language: React, Next.js, HTML & CSS <br />
+  ⭐ 0 | Language: React, Next.js, HTML & CSS <br />
   Forks: 0 | Open Issues: 0
 
 ## GitHub Stats
 
 ![Theerabyte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theerabyte&show_icons=true&count_private=true&theme=radical)
 
-- **Public Repositories:** 3  
+- **Public Repositories:** 4 
 - **Followers:** 1  
 - **Following:** 1
-
-## Recent Activity
-
-Here are some of my latest GitHub activities:
-  
-- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/3b62682a0a8cfd344c80a7472075a0e236c503c3)** on PetabyteBrain/BlackberryPi - Updated header.  
-- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/975a97ced3beb3f65c389010f28d2f174c48a823)** on PetabyteBrain/BlackberryPi - Corrected naming.  
-- **[Push Event](https://github.com/PetabyteBrain/BlackberryPi/commit/16f76577a4a101cdfb89b7492ac294244d7810b6)** on PetabyteBrain/BlackberryPi - Updated image and other changes.
 
 ## Latest Blog Posts
 
