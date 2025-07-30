@@ -38,7 +38,12 @@ Here are some of my notable projects:
 - [**Website-V1**](https://github.com/Theerabyte/Website-V1)  
   A simple HTML website project.  
   ⭐ 0 | Language: HTML & CSS <br />
-  Forks: 0 | Open Issues: 0  
+  Forks: 0 | Open Issues: 0
+
+- [**Portfolio**](https://github.com/Theerabyte/bweb)  
+  A react x Next.js website project.  
+  ⭐ 1 | Language: React, Next.js, HTML & CSS <br />
+  Forks: 0 | Open Issues: 0
 
 ## GitHub Stats
 
